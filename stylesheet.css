@@ -82,8 +82,8 @@ h2{
 	color: #808080;
 }
 .substack-post-embed {
-    transform: scale(0.8); /* Scales the whole embed by 80% */
-    transform-origin: top left; /* Keeps the scaling anchored at the top left */}
+    transform: scale(0.6); 
+    transform-origin: top left;}
 footer {
 	font-size: small;
 	padding: 5px;
